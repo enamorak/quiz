@@ -96,7 +96,7 @@ body{
 .info_box .buttons button{
     margin: 0 5px;
     height: 40px;
-    width: 100px;
+    width: 110px;
     font-size: 16px;
     font-weight: 500;
     cursor: pointer;
@@ -145,12 +145,12 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    width: 145px;
+    width: 160px;
 }
 
 .quiz_box header .timer .time_left_txt{
     font-weight: 400;
-    font-size: 17px;
+    font-size: 14px;
     user-select: none;
 }
 
